@@ -1,4 +1,4 @@
 token: fill_your_dicord_token
 channel_id: 1195058676583649370
 send_delay: 30
-delete_delay: 30
+delete_delay: 40
