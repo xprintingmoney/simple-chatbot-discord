@@ -1,1 +1,1 @@
-Setting Delay Send/Delete Message on config.yaml
+Set the Delay Send/Delete Message on config.yaml
